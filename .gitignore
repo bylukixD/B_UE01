@@ -1,0 +1,33 @@
+### Maven ###
+target/          # Maven-Build-Ordner
+pom.xml.versionsBackup  # Backup-Dateien von Maven
+
+### IntelliJ ###
+*.iml
+.idea/
+modules.xml
+workspace.xml
+vcs.xml
+misc.xml
+*.ipr
+*.iws
+
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+### System ###
+.DS_Store
+Thumbs.db
+
+### Logs ###
+logs/
+*.log
+
+### Sonstiges ###
+*.swp
+*.swo
+.keep
